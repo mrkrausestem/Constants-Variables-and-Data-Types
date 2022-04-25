@@ -10,6 +10,5 @@
         <page name='7. Exercise - Types and Type Safety'/>
         <page name='8. App Exercise - Tracking Different Types'/>
         <page name='9. Exercise - Type Inference and Required Values'/>
-        <page name='10. App Exercise - Percent Completed'/>
     </pages>
 </playground>

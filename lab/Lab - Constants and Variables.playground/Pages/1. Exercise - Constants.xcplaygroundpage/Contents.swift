@@ -1,18 +1,24 @@
 /*:
  ## Exercise - Constants
  
- Declare a constant called `friends` to represent the number of friends you have on social media. Give it a value between 50 and 1000. Print out the value by referencing your constant.
+ - Note:
+ We use 'let' to declare constants, 'var' to declare mutable variables.
+ \
+ IF THE LAB ASKS A QUESTION, MAKE SURE YOU RESPOND IN A PRINT STATEMENT
+ 
+ Declare a constant called 'pi' to represent the ration of a circle's radius to its circumference. Set it to the correct value, to 3 decimal places. (.25 points)
  */
 
 
 /*:
- Now assume you go through and remove friends that aren't active on social media. Update your `friends` constant to a lower number than it currently is.
+ Your teacher tells you that you need to use more decimal places at the STEM Academy, update your variable below to reflect 5 decimal places of pi. (.25 points)
  */
 
 
 /*:
- Does the above code compile? Why not? Print your explanation to the console using the `print` function. Go back and delete your line of code that updates the `friend` constant to a lower number so that the playground will compile properly.
+ Does the above code compile? Why not? Print your explanation to the console using the `print` function.
+ Go back and comment out // your line of code that updates the `pi` constant so that the playground will compile properly. (.5 point)
  */
 
 
-//: page 1 of 10  |  [Next: App Exercise - Step Goal](@next)
+//: page 1 of 10  |  [Next](@next)

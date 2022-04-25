@@ -1,6 +1,10 @@
 # Constants--Variables--and-Data-Types
+
+Read pages 25-40 in the book. Follow along in XCODE as you read.
+
+Once you have completed the readings, do the self quiz on page 40. Then, complete the lab.
  
-This lab will walk you through the creation of an exercise app.  The labs will continue to come back to this concept several times.  
+This lab will begin to introduce concepts in the context of an app that helps students learn math.  The labs will continue to come back to this concept several times.  
 
 Make sure you note that there are multiple pages in these labs.  The links on the bottom will move you through the lab.
 

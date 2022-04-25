@@ -1,18 +1,17 @@
 /*:
  ## Exercise - Constant or Variable?
  
- Imagine you're creating a simple photo sharing app. You want to keep track of the following metrics for each post:
-- Number of likes: the number of likes that a photo has received
-- Number of comments: the number of comments other users have left on the photo
-- Year created: The year the post was created
-- Month created: The month the post was created represented by a number between 1 and 12
-- Day created: The day of the month the post was created
+ You math application is going to keep track of several metrics, determine if you should use a constant or variable for each:
+- Number of questions attempted
+- Number of questions correct
+- Minimum percent required to pass a quiz
+- Date a quiz was attempted.
  
- For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
+ For each of the metrics above, declare either a constant or a variable and assign it a corresponding value. Explain with a print statement why you chose one or the other. (1 point)
  */
 
 
 
 
 
-//: [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
+//: [Previous](@previous)  |  page 5 of 10  |  [Next](@next)
