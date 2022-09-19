@@ -8,7 +8,7 @@
 
 
 /*:
- Use two `print` functions to print two lines to the console. The first line should say "The natural base, e, has the value:", and the second line should print the value of `phi` by referencing your constant. (.5 point)
+ Use two `print` functions to print two lines to the console. The first line should say "The natural base, e, has the value:" and then print the value, and the second line should print the value of `phi` by referencing your constant. (.5 point)
  */
 
 
