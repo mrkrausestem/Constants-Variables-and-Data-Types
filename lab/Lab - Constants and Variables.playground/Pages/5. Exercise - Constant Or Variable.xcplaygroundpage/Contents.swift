@@ -14,4 +14,4 @@
 
 
 
-//: [Previous](@previous)  |  page 5 of 10  |  [Next](@next)
+//: [Previous](@previous)  |  page 5 of 9  |  [Next](@next)

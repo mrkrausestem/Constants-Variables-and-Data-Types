@@ -12,4 +12,4 @@ Create a variable called `questionCount` that will keep track of the number of q
  */
 
 
-//: [Previous](@previous)  |  page 4 of 10  |  [Next](@next)
+//: [Previous](@previous)  |  page 4 of 9  |  [Next](@next)

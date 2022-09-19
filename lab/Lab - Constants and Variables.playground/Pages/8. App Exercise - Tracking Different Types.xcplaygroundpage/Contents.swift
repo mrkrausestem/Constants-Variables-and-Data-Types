@@ -12,4 +12,4 @@ You have declared a number of constants and variables to keep track of fitness i
  */
 
 
-//: [Previous](@previous)  |  page 8 of 10  |  [Next](@next)
+//: [Previous](@previous)  |  page 8 of 9  |  [Next](@next)
