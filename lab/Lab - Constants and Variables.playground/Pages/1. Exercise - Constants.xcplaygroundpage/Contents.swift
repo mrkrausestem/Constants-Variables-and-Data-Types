@@ -6,7 +6,7 @@
  \
  IF THE LAB ASKS A QUESTION, MAKE SURE YOU RESPOND IN A PRINT STATEMENT
  
- Declare a constant called 'pi' to represent the ration of a circle's radius to its circumference. Set it to the correct value, to 3 decimal places. (.25 points)
+ Declare a constant called 'pi' to represent the ratio of a circle's radius to its circumference. Set it to the correct value, to 3 decimal places. (.25 points)
  */
 
 
