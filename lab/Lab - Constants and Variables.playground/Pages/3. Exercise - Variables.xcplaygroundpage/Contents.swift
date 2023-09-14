@@ -9,7 +9,7 @@
 
 
 /*:
- Now imagine you just completed an additional year of school, and update the `schooling` variable accordingly. Print `schooling` to the console. (.25 points)
+ Now imagine you just completed an additional year of school, and update the `gradeLevel` variable accordingly. Print `gradeLevel` to the console. (.25 points)
  */
 
 
