@@ -1,8 +1,8 @@
 # Constants--Variables--and-Data-Types
 
-Read pages 25-40 in the book. Follow along in XCODE as you read.
+Read pages 28-44 in the book. Follow along in XCODE as you read.
 
-Once you have completed the readings, do the self quiz on page 40. Then, complete the lab.
+Once you have completed the readings, do the self quiz on page 44. Then, complete the lab.
  
 This lab will begin to introduce concepts in the context of an app that helps students learn math.  The labs will continue to come back to this concept several times.  
 
